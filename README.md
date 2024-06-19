@@ -16,6 +16,10 @@ A classic snake game where the player controls a snake to collect food. The snak
 ### 4. Pong Game
 A two-player Pong game with paddles and a ball. Players control the paddles to hit the ball back and forth, scoring points when the opponent misses the ball.
 
+### 5. Turtle Crossing Game
+It is inspired by the classic "Frogger" game. The objective is to navigate your turtle across a busy road to reach the other side without getting hit by cars.
+
+
 ## Controls
 ### 1. Turtle Art
 No specific controls, watch the turtle create art.
@@ -26,3 +30,5 @@ Use arrow keys to control the direction of the snake.
 ### 4. Pong Game
 Player 1 (Left Paddle): W (up), S (down)
 Player 2 (Right Paddle): Up Arrow (up), Down Arrow (down)
+### 5. Turtle Crossing Game
+Use up arrow to make the turtle move forward and make the crossing
