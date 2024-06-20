@@ -1,4 +1,4 @@
-# US States Games
+# U.S. States Games
 Welcome to the US States Games! This project is a collection of interactive games designed to help users learn and test their knowledge of the United States geography. Built using the Python turtle module, these games provide a fun and engaging way to familiarize yourself with the US states and their locations.
 
 ## Features
